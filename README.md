@@ -53,7 +53,8 @@ Remember to change the **img** variable path for the required input file
 ## Acknowledgements
 
  - [Paper by A. Efros and W. Freeman](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf)
-
+ - [Presentation of the same from SIGGRAPH'01](https://www.youtube.com/watch?v=QMiCNJofJUk)
+ 
 ## License
 
 [MIT](https://github.com/lostmartian/image-quilting-texture-synthesis/blob/main/LICENSE)
