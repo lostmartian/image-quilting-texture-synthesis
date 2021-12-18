@@ -1,5 +1,5 @@
 
-# Texture snythesis
+# Texture synthesis
 
 This is an implementation of the Image Quilting for Texture Synthesis and Transfer by Alexei A. Efros and William T. Freeman in python. The paper can be viewed [here](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf).
 
